@@ -29,7 +29,7 @@ information.
    git clone https://github.com/laurianerzb/exercise-tracker.git
 2. Navigate to the project directory:
    ```bash 
-   cd xercise-tracker
+   cd exercise-tracker
 3. Run the program
    ```bash
    python main.py
